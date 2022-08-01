@@ -21,18 +21,18 @@ body{
 }
 
 .card{
-    width: 340px;
+    width: 330px;
     height: auto;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 15px;
-    padding: 10px;
+    border-radius: 20px;
+    padding: 15px;
     box-shadow: 4px 4px 30px hsl(213, 30%, 79%);
 }
 
 .card-header img{
     width: 100%;
     display: block;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .card-content{
